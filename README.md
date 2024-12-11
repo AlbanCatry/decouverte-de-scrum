@@ -8,7 +8,7 @@ Chaque sprint sera constitué d'une phase de planification, de développement, d
 
 Pour avoir un aperçu des règles de base, consultez la présentation d'introduction `Présentation d'introduction.pdf`
 
-Pour organiser le jeu, lire le `Livret de l''organisateur.pdf`
+Pour organiser le jeu, lire le [Livret de l'organisateur.pdf](./Livret%20de%20l'organisateur.pdf)
 
 ## Pour l'organisateur
 C'est un jeu de plateau, il faut donc imprimer tout le matériel présent dans le répertoire `pdf`, parfois en recto-verso.
