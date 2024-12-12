@@ -23,3 +23,5 @@ Et enfin se procurer du matériel non-imprimable (dés, sablier, pions), listé 
 * Gérer en même temps les développements, la correction d'anomalies et les demandes exotiques
 * Surveiller la satisfaction du client et la dette technique
 * Découvrir quelques pratiques d'ingénierie
+
+![2024-11-13 Session au CARA Lyon.jpg](./resources/2024-11-13%20Session%20au%20CARA%20Lyon.jpg)
