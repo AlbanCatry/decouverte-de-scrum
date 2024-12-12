@@ -6,12 +6,12 @@ Le jeu dure environ 90 minutes, et se joue par équipes de 3 à 6 personnes, ave
 L'objectif du jeu est de concevoir un site de vente en ligne, en 8 sprints Scrum.
 Chaque sprint sera constitué d'une phase de planification, de développement, de démonstration et de rétrospective.
 
-Pour avoir un aperçu des règles de base, consultez la présentation d'introduction `Présentation d'introduction.pdf`
+Pour avoir un aperçu des règles de base, consultez la présentation d'introduction [Présentation d'introduction.pdf](./Présentation%20d'introduction.pdf)
 
-Pour organiser le jeu, lire le `Livret de l''organisateur.pdf`
+Pour organiser le jeu, lire le [Livret de l'organisateur.pdf](./Livret%20de%20l'organisateur.pdf)
 
 ## Pour l'organisateur
-C'est un jeu de plateau, il faut donc imprimer tout le matériel présent dans le répertoire `pdf`, parfois en recto-verso.
+C'est un jeu de plateau, il faut donc imprimer tout le matériel présent dans le répertoire [pdf](./pdf), parfois en recto-verso.
 Ensuite découper tous les éléments.
 Et enfin se procurer du matériel non-imprimable (dés, sablier, pions), listé dans le livret de l'organisateur.
 
