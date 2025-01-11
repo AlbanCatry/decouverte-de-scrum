@@ -1,6 +1,9 @@
 # decouverte-de-scrum
 Un jeu de plateau pour découvrir quelques principes de Scrum et de l'agilité.
 
+Ce jeu est publié sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).  
+Vous êtes invités à le découvrir, le faire jouer et l'améliorer selon les principes de [#OpenSeriousGame](https://openseriousgames.org)
+
 ## Résumé du jeu
 Le jeu dure environ 90 minutes, et se joue par équipes de 3 à 6 personnes, avec un organisateur pour mener le jeu.
 L'objectif du jeu est de concevoir un site de vente en ligne, en 8 sprints Scrum.
