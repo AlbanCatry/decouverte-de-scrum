@@ -25,3 +25,4 @@ Et enfin se procurer du matériel non-imprimable (dés, sablier, pions), listé 
 * Découvrir quelques pratiques d'ingénierie
 
 ![2024-11-13 Session au CARA Lyon.jpg](./resources/2024-11-13%20Session%20au%20CARA%20Lyon.jpg)
+_Crédit photo : Pierre Carvalho_
